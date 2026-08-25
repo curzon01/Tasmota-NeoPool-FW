@@ -1,6 +1,6 @@
 # Precompiled Tasmota with NeoPool
 
-This repository contains precompiled Tasmota based on the origin [Tasmota v15.5.0 Sylvan](https://github.com/arendst/Tasmota/tree/v15.5.0) without any defaults and presettings but including the [NeoPool](https://tasmota.github.io/docs/NeoPool/) sensor module for Sugar Valley pool controllers.
+This repository contains precompiled Tasmota based on the origin [Tasmota v15.6.0 Sylvie](https://github.com/arendst/Tasmota/tree/v15.6.0) without any defaults and presettings but including the [NeoPool](https://tasmota.github.io/docs/NeoPool/) sensor module for Sugar Valley pool controllers.
 
 ## Firmware files for initial flash
 
